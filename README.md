@@ -2,7 +2,7 @@
 
 ## Description:
 
-This code is divided into two parts, Where ==SrcCpp== is the main logic, ==ClusterClassificationPython== is an improved PointNet for cluster classification.
+This code is divided into two parts, where ***SrcCpp*** is the main logic, ***ClusterClassificationPython*** is an improved PointNet for cluster classification.
 
 ## Todo:
 
